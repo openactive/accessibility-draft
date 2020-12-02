@@ -8,5 +8,22 @@ This property represents the simplest kind of accessibility information, and in 
 
 The correct usage of `amenityFeature` is described in the [relevant section](https://openactive.io/modelling-opportunity-data/EditorsDraft/#describing-amenities) of the Opportunity specification. Note that it applies only to places, rather than to events.
 
-For further information on the relationship between Active Places accessibility data and OpenActive `amenityFeatures`,  see [Mapping To and From Active Places](../tech-notes/mapping-to-active-places.md).
+For further information on the relationship between Active Places accessibility data and OpenActive `amenityFeatures`,  see [Mapping From Active Places](../tech-notes/mapping-to-active-places.md).
+
+### Implementation Example
+
+Note that the `@type` of `amenityFeatures` is `LocationFeatureSpecification`. The nature of the feature is given in the `name`.
+
+```text
+"amenityFeature": [
+    { "type": "LocationFeatureSpecification",
+      "name": "Accessible Toilets",
+      "value": true },
+    { "type": "LocationFeatureSpecification",
+      "name": "Step-Free Access",
+      "value": true }
+]
+```
+
+
 
