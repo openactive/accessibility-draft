@@ -11,12 +11,12 @@ Note that all top-level attributes are considered optional.
 | Property | Format | Notes |
 | :--- | :--- | :--- |
 | `oax:accessibilitySupport` | Array of `oax:accessibilitySupport` | See further below |
-| `oax:accessibilitySupportLevel` | Controlled vocabulary. See page on `accessibilitySupportLevel` | For opportunities only |
-| `schema:amenityFeature` | Array of `schema:LocationFeatureSpecification` |  |
+| `oax:accessibilitySupportLevel` | Controlled vocabulary. See page on `accessibilitySupportLevel` | Applies to opportunities only |
+| `schema:amenityFeature` | Array of `schema:LocationFeatureSpecification` | Applies to places only |
 | `oax:carerPolicy` | Text |  |
 | `schema:contactPoint` | `schema:ContactPoint` |  |
 | `schema:review` | Array of `schema:Review` |  |
-| `oax:transportNote` | See page on `transportNote` | For places only. |
+| `oax:transportNote` | See page on `transportNote` | Applies to places only. |
 
 ## `accessibilitySupport` Attributes
 
