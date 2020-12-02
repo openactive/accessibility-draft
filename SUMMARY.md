@@ -12,7 +12,8 @@
 
 ## Top-Level Attributes
 
-* [Overview](top-level-attributes/overview.md)
+* [Overview](top-level-attributes/overview/README.md)
+  * [A Note on Linking](top-level-attributes/overview/a-note-on-linking.md)
 * [accessibilitySupportLevel](top-level-attributes/accessibilitysupportlevel.md)
 * [amenityFeature](top-level-attributes/amenityfeature.md)
 * [carerPolicy](top-level-attributes/carerpolicy.md)
@@ -23,12 +24,13 @@
 ## accessibilitySupport Attributes <a id="accessibility-support"></a>
 
 * [Overview](accessibility-support/overview.md)
+* [contactPoint](accessibility-support/contactpoint.md)
+* [description](accessibility-support/description.md)
 * [isAdvanceNoticeRequired](accessibility-support/isadvancenoticerequired.md)
 * [hoursAvailable](accessibility-support/hoursavailable.md)
 * [name](accessibility-support/name.md)
 * [participantConditionSupported](accessibility-support/participantconditionsupported.md)
-* [url](accessibility-support/url/README.md)
-  * [description](accessibility-support/url/description.md)
+* [url](accessibility-support/url.md)
 
 ## Tech Notes
 
