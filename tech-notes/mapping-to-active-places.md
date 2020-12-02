@@ -30,16 +30,16 @@ would be represented in OpenActive data as
 "amenityFeature": [
     {"type": "Accessible Parking",
      "name": "Accessible Parking",
-     "value": "True"},
+     "value": true },
     {"type": "Accessible Changing Facilities",
      "name": "Accessible Changing Facilities",
-     "value": "True"},
+     "value": true },
     {"type": "Accessible Toilets",
      "name": "Accessible Toilets",
-     "value": "True"},
+     "value": true },
     {"type": "Accessible Emergency Exits",
      "name": "Accessible Emergency Exits",
-     "value": "True"}
+     "value": true }
 ]
 ```
 
@@ -55,7 +55,7 @@ In cases where the value of `DisabilityChangingPlaces` in Active Places is a 0 \
 "amenityFeature": [
     {"type": "Disability Changing Places",
      "name": "Disability Changing Places",
-     "value": "True"}
+     "value": true}
 ]
 ```
 
