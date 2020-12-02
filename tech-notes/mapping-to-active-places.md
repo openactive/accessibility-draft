@@ -49,3 +49,13 @@ Each Active Places DisabilityNote should be mapped to an `accessibilitySupport` 
 
 ### DisabilityChangingPlaces
 
+In cases where the value of `DisabilityChangingPlaces` in Active Places is a 0 \('No'\) or 2 \('Don't Know'\), the information should be discarded and not mapped to OpenActive. In cases where it is 1 \('Yes'\), it should be represented as an `amenityFeature` with a `name` and `type` of `Disability Changing Places`, and a value of `true`.
+
+```text
+"amenityFeature": [
+    {"type": "Disability Changing Places",
+     "name": "Disability Changing Places",
+     "value": "True"}
+]
+```
+
