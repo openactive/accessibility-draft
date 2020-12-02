@@ -17,6 +17,7 @@
 * [amenityFeature](top-level-attributes/amenityfeature.md)
 * [carerPolicy](top-level-attributes/carerpolicy.md)
 * [contactPoint](top-level-attributes/contactpoint.md)
+* [review](top-level-attributes/review.md)
 * [transportNote](top-level-attributes/transportnote.md)
 
 ## accessibilitySupport Attributes <a id="accessibility-support"></a>
@@ -26,7 +27,6 @@
 * [hoursAvailable](accessibility-support/hoursavailable.md)
 * [name](accessibility-support/name.md)
 * [participantConditionSupported](accessibility-support/participantconditionsupported.md)
-* [review](accessibility-support/review.md)
 * [url](accessibility-support/url/README.md)
   * [description](accessibility-support/url/description.md)
 
