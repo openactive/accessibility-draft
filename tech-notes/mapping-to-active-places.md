@@ -1,2 +1,2 @@
-# Mapping to Active Places
+# Mapping to and from Active Places
 
