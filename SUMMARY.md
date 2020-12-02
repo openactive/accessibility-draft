@@ -13,7 +13,6 @@
 ## Top-Level Attributes
 
 * [Overview](top-level-attributes/overview.md)
-* [accessibilitySupport](top-level-attributes/accessibilitysupport.md)
 * [accessibilitySupportLevel](top-level-attributes/accessibilitysupportlevel.md)
 * [amenityFeature](top-level-attributes/amenityfeature.md)
 * [carerPolicy](top-level-attributes/carerpolicy.md)

@@ -15,5 +15,7 @@ On the other hand, many classes are tailored for people with a particular access
 
 For the most part, the properties used to model accessibility information about places and about opportunities are the same; even if they can be attached to different kinds of entities. The only exceptions are [`amenityFeature`](top-level-attributes/amenityfeature.md)\(applicable to places, but not opportunities\) and [`accessibilitySupportLevel`](top-level-attributes/accessibilitysupportlevel.md) \(applicable to opportunities, but not places\).
 
+If in doubt about whether to relate a particular property to a place or to an opportunity, ask yourself the question 'is this feature available to everyone in all classes held in a facility, or is it limited only to some of these?' If the former, the information almost certainly relates to the relevant place; if the latter, it should be attached to individual opportunities. 
+
 For a concrete illustration of the different approaches used for modelling accessibility in relation to places and opportunities, see the [Accessible Leisure Centre](worked-examples/accessible-leisure-centre.md) and [Chair Yoga](worked-examples/chair-yoga.md) worked examples.
 
