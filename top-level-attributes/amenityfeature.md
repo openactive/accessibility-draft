@@ -16,10 +16,10 @@ Note that the `@type` of `amenityFeatures` is `LocationFeatureSpecification`. Th
 
 ```text
 "amenityFeature": [
-    { "type": "LocationFeatureSpecification",
+    { "@type": "LocationFeatureSpecification",
       "name": "Accessible Toilets",
       "value": true },
-    { "type": "LocationFeatureSpecification",
+    { "@type": "LocationFeatureSpecification",
       "name": "Step-Free Access",
       "value": true }
 ]

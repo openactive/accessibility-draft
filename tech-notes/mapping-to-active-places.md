@@ -16,7 +16,7 @@ This value should be left unrepresented \(that is to say, can be discarded\) in 
 
 DisabilityParams followed by an 'N' \(for 'No'\) should be discarded. Those followed by a 'Y' \(for 'Yes'\) should be mapped as an `amenityFeature` with:
 
-* a `type`  consisting of the Active Places term, prefixed by the word "Accessible"
+* a `type`  of "LocationFeatureSpecification"
 * a `name` consisting of the Active Places term, prefixed by the word "Accessible"
 * a `value` of `True`
 
@@ -28,16 +28,16 @@ would be represented in OpenActive data as
 
 ```text
 "amenityFeature": [
-    {"type": "Accessible Parking",
+    {"@type": "LocationFeatureSpecification",
      "name": "Accessible Parking",
      "value": true },
-    {"type": "Accessible Changing Facilities",
+    {"@type": "LocationFeatureSpecification",
      "name": "Accessible Changing Facilities",
      "value": true },
-    {"type": "Accessible Toilets",
+    {"@type": "LocationFeatureSpecification",
      "name": "Accessible Toilets",
      "value": true },
-    {"type": "Accessible Emergency Exits",
+    {"@type": "LocationFeatureSpecification",
      "name": "Accessible Emergency Exits",
      "value": true }
 ]
@@ -49,11 +49,11 @@ Each Active Places DisabilityNote should be mapped to an `accessibilitySupport` 
 
 ### DisabilityChangingPlaces
 
-In cases where the value of `DisabilityChangingPlaces` in Active Places is a 0 \('No'\) or 2 \('Don't Know'\), the information should be discarded and not mapped to OpenActive. In cases where it is 1 \('Yes'\), it should be represented as an `amenityFeature` with a `name` and `type` of `Disability Changing Places`, and a value of `true`.
+In cases where the value of `DisabilityChangingPlaces` in Active Places is a 0 \('No'\) or 2 \('Don't Know'\), the information should be discarded and not mapped to OpenActive. In cases where it is 1 \('Yes'\), it should be represented as an `amenityFeature` with the `name Disability Changing Places`, and a value of `true`.
 
 ```text
 "amenityFeature": [
-    {"type": "Disability Changing Places",
+    {"@type": "LocationFeatureSpecification",
      "name": "Disability Changing Places",
      "value": true}
 ]
