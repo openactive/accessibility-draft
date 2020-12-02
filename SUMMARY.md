@@ -10,28 +10,24 @@
 * [Accessible Leisure Centre](worked-examples/accessible-leisure-centre.md)
 * [Chair Yoga](worked-examples/chair-yoga.md)
 
-## Modelling Places
-
-* [Overview](modelling-places/overview.md)
-* [amenityFeature](modelling-places/amenityfeature.md)
-* [carerPolicy](modelling-places/carerpolicy.md)
-* [contactPoint](modelling-places/contactpoint.md)
-* [transportNote](modelling-places/transportnote.md)
-
-## Modelling Opportunities - Top-Level Attributes <a id="top-level-attributes"></a>
+## Top-Level Attributes
 
 * [Overview](top-level-attributes/overview.md)
 * [accessibilitySupport](top-level-attributes/accessibilitysupport.md)
 * [accessibilitySupportLevel](top-level-attributes/accessibilitysupportlevel.md)
+* [amenityFeature](top-level-attributes/amenityfeature.md)
 * [carerPolicy](top-level-attributes/carerpolicy.md)
 * [contactPoint](top-level-attributes/contactpoint.md)
 * [transportNote](top-level-attributes/transportnote.md)
 
-## Modelling Opportunities - accessibilitySupport Attributes <a id="accessibility-support"></a>
+## accessibilitySupport Attributes <a id="accessibility-support"></a>
 
 * [Overview](accessibility-support/overview.md)
+* [isAdvanceNoticeRequired](accessibility-support/isadvancenoticerequired.md)
+* [hoursAvailable](accessibility-support/hoursavailable.md)
 * [name](accessibility-support/name.md)
 * [participantConditionSupported](accessibility-support/participantconditionsupported.md)
+* [review](accessibility-support/review.md)
 * [url](accessibility-support/url/README.md)
   * [description](accessibility-support/url/description.md)
 
