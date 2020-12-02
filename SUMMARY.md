@@ -37,7 +37,7 @@
 
 ## Tech Notes
 
-* [Namespace](tech-notes/namespace.md)
+* [Namespaces](tech-notes/namespace.md)
 * [Tabular Overview](tech-notes/tabular-overview.md)
 * [Mapping to Active Places](tech-notes/mapping-to-active-places.md)
 * [Web Standards](tech-notes/web-standards.md)
