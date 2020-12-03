@@ -8,3 +8,18 @@ In cases where an activity or opportunity is recommended as suitable or therapeu
 
 The values for this property must be drawn from the Participant Condition Supported [controlled vocabulary](https://disab.herokuapp.com/en/hierarchical_concepts.html). Note, however, that this vocabulary is still evolving and is far from static. If you have terms you wish to see added or suggestions for its improvement, please see our [Getting Involved](../getting-involved.md) page to find out how you can contribute.
 
+### Implementation Example
+
+```text
+"participantConditionSupported": [
+    { "@type": "Concept",
+      "@id": "https://openactive.io/accessibility/pcs/_ff9a09ed-fb5a-4a62-b4d7-0fa263aa631d"
+      "prefLabel": "Cardiac Recuperation"
+    },
+    { "@type": "Concept",
+      "@id": "https://openactive.io/accessibility/pcs/_e2f6e425-66b0-4c74-b843-d3dbc634b99"
+      "prefLabel": "Post-surgical Recuperation"
+    }
+]
+```
+
