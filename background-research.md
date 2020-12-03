@@ -1,6 +1,6 @@
 # Background Research
 
-The OpenActive approach to accessibility is informed by the following pieces of research:
+The OpenActive approach to accessibility is informed by the following research publications:
 
 **Sport England**
 
