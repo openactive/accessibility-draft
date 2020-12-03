@@ -6,11 +6,6 @@
 * [Accessible Places vs Accessible Opportunities](accessible-places-vs-accessible-opportunities.md)
 * [Getting Involved](getting-involved.md)
 
-## Worked Examples
-
-* [Accessible Leisure Centre](worked-examples/accessible-leisure-centre.md)
-* [Chair Yoga](worked-examples/chair-yoga.md)
-
 ## Top-Level Attributes
 
 * [Overview](top-level-attributes/overview/README.md)
@@ -32,6 +27,11 @@
 * [name](accessibility-support/name.md)
 * [participantConditionSupported](accessibility-support/participantconditionsupported.md)
 * [url](accessibility-support/url.md)
+
+## Worked Examples
+
+* [Accessible Leisure Centre](worked-examples/accessible-leisure-centre.md)
+* [Chair Yoga](worked-examples/chair-yoga.md)
 
 ## Tech Notes
 
