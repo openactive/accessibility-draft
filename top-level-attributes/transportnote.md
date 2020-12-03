@@ -12,7 +12,7 @@ Note that the presence of disabled parking should normally be communicated as an
 
 ### Implementation Example
 
-The `@type` for transportNote is `oax:TransportNote`. Note that this is currently also defined within the top-level OpenActive namespace \(`oa:`\), but this definition is intended for removal in the near future.
+The `@type` for transportNote is `oax:TransportNote`. Note that this is currently also defined within the top-level OpenActive namespace \(`oa:`\), but this definition is intended for removal once the Accessibility specification is formalised.
 
 ```text
 "transportNote" : [

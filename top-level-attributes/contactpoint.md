@@ -8,7 +8,7 @@ Accessibility needs are complex and individual: very often, disabled individuals
 
 ### Implementation Example
 
-Note that the `@type` for `contactPoint` is `schema:ContactPoint`. The value of `contactType` should normally be "Accessibility Information", unless a more specific and dedicated description is applicable.
+Note that the `@type` for `contactPoint` is [`schema:ContactPoint`](https://schema.org/ContactPoint). The value of `contactType` should normally be "Accessibility Information", unless a more specific and dedicated description is applicable.
 
 ```text
 "contactPoint": {

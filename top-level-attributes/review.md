@@ -12,7 +12,7 @@ It is advised that systems implementing `review` have some mechanism for moderat
 
 ### Implementation Example
 
-The `@type`  for reviews is `schema:Review`.
+The `@type`  for reviews is [`schema:Review`](https://schema.org/Review).
 
 ```text
 "review": [

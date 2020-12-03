@@ -10,7 +10,7 @@ Note that all top-level attributes are considered optional.
 
 | Property | Format | Notes |
 | :--- | :--- | :--- |
-| `oax:accessibilitySupport` | Array of `oax:accessibilitySupport` | See further below |
+| `oax:accessibilitySupport` | Array of `oax:AccessibilitySupport` | See further below |
 | `oax:accessibilitySupportLevel` | Controlled vocabulary. See [page](../top-level-attributes/accessibilitysupportlevel.md) on `accessibilitySupportLevel` | Applies to opportunities only |
 | `schema:amenityFeature` | Array of `schema:LocationFeatureSpecification` | Applies to places only |
 | `oax:carerPolicy` | Text |  |
