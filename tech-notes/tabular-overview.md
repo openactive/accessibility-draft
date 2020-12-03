@@ -10,12 +10,12 @@ Note that all top-level attributes are considered optional.
 
 | Property | Format | Notes |
 | :--- | :--- | :--- |
-| `oax:accessibilitySupport` | Array of `oax:AccessibilitySupport` | See further below |
+| `oax:accessibilitySupport` | Array of [`oax:AccessibilitySupport`](../accessibility-support/overview.md)\`\` | See further below |
 | `oax:accessibilitySupportLevel` | Controlled vocabulary. See [page](../top-level-attributes/accessibilitysupportlevel.md) on `accessibilitySupportLevel` | Applies to opportunities only |
-| `schema:amenityFeature` | Array of `schema:LocationFeatureSpecification` | Applies to places only |
+| `schema:amenityFeature` | Array of [`schema:FeatureLocationSpecification`](https://schema.org/LocationFeatureSpecification)\`\` | Applies to places only |
 | `oax:carerPolicy` | Text |  |
-| `schema:contactPoint` | `schema:ContactPoint` |  |
-| `schema:review` | Array of `schema:Review` |  |
+| `schema:contactPoint` | \`\`[`schema:ContactPoint`](https://schema.org/ContactPoint)\`\` |  |
+| `schema:review` | Array of [`schema:Review`](https://schema.org/Review)\`\` |  |
 | `oax:transportNote` | See [page](../top-level-attributes/transportnote.md) on `transportNote` | Applies to places only. |
 
 ## `accessibilitySupport` Attributes
@@ -24,11 +24,11 @@ Note that the 'Status' assigned to each property is on the assumption that an \(
 
 | Property | Status | Format |
 | :--- | :--- | :--- |
-| `schema:contactPoint` | recommended | `schema:ContactPoint` |
+| `schema:contactPoint` | recommended | \`\`[`schema:ContactPoint`](https://schema.org/ContactPoint)\`\` |
 | `schema:description` | recommended | Text |
 | `oax:isAdvanceNoticeRequired` | recommended | Boolean |
-| `schema:hoursAvailable` | recommended | `schema:OpeningHoursSpecification` |
+| `schema:hoursAvailable` | recommended | \`\`[`schema:OpeningHoursSpecificatio`](https://schema.org/OpeningHoursSpecification)\`\` |
 | `schema:name` | required | Text |
 | `oax:participantConditionSupported` | optional | Controlled vocabulary. See [page](../accessibility-support/participantconditionsupported.md) on `participantConditionSupported` |
-| `schema:url` | recommended | `schema:URL` |
+| `schema:url` | recommended | \`\`[`schema:URL`](https://schema.org/URL)\`\` |
 
