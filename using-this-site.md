@@ -1,5 +1,5 @@
 ---
-description: Different information for different audiences
+description: Different information for different Audiences
 ---
 
 # Using this site
@@ -9,8 +9,6 @@ This website is intended as a high-level overview of the OpenActive approach to 
 ### For non-technical readers
 
 Readers generally interested in learning about the scope of OpenActive Accessibility, its application, and the general range of what it represents and how will benefit from reading:
-
-
 
 
 
