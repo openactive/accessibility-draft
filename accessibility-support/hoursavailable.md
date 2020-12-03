@@ -6,3 +6,17 @@ description: Indicating limitations on availability
 
 Some forms of support may be available only at certain times during the day. In this case, the times during which these can be access must be included.
 
+### Implementation Example
+
+```text
+"accessibilitySupport": [
+    { "@type": "AccessibilitySupport",
+      "name": "Pool Hoist",
+      "hoursAvailable": [{
+        "opens": "09:00:00",
+        "closes": "20:00:00"
+      }]
+    }
+]
+```
+
