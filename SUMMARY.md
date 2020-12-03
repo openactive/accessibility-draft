@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Using this site](using-this-site.md)
 * [Background Research](background-research.md)
 * [Accessible Places vs Accessible Opportunities](accessible-places-vs-accessible-opportunities.md)
 * [Getting Involved](getting-involved.md)
