@@ -8,6 +8,8 @@ Some forms of support may be available only at certain times during the day. In 
 
 ### Implementation Example
 
+The `@type` for `hoursAvailable` is a `schema:OpeningHoursSpecification`.
+
 ```text
 "accessibilitySupport": [
     { "@type": "AccessibilitySupport",

@@ -10,6 +10,8 @@ The values for this property must be drawn from the Participant Condition Suppor
 
 ### Implementation Example
 
+Note that the Participant Condition Supported vocabulary is defined as a SKOS vocabulary. It accordingly consists of `skos:Concepts`.
+
 ```text
 "participantConditionSupported": [
     { "@type": "Concept",
