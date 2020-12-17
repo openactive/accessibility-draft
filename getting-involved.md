@@ -14,3 +14,5 @@ Individuals wishing to comment upon or contribute to the accessibility specifica
 
 OpenActive particularly welcomes feedback from individuals with disabilities and organisations dedicated to advocacy in this area.
 
+f you find any of these channels to be inaccessible in any way and have suggestions on how we can improve this, please let us know via [hello@openactive.io](mailto:hello@openactive.io).  We try to be as inclusive as possible, and are always open to improvement.
+
