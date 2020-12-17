@@ -10,7 +10,7 @@ Active Places records accessibility information in a number of fields, as itemis
 
 ### DisabilityAccess
 
-This value should be left unrepresented \(that is to say, can be discarded\) in mapping to  OpenActive accessibility attributes.
+This value should be left unrepresented \(that is to say, can be discarded\) in mapping to OpenActive accessibility attributes.
 
 ### DisabilityParams
 

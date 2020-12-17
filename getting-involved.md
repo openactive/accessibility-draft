@@ -8,9 +8,10 @@ OpenActive welcomes contributions from the community - particularly with regard 
 
 Individuals wishing to comment upon or contribute to the accessibility specification may do so by:
 
-* raising an issue in the relevant [GitHub repository](https://github.com/openactive/accessibility-documentation/issues)
-* joining the [W3C OpenActive Community Group](https://www.w3.org/community/openactive/)
-* emailing OpenActive directly at hello@openactive.io
+* technical comments and proposals related to the accessibility standard in general can be raised as issues on the GitHub [accessibility-draft repository](https://github.com/openactive/accessibility-draft/issues)
+* if your contribution specifically concerns the Participant Condition Supported Vocabulary, issues and proposals can be raised in the dedicated [participant-condition-supported repository](https://github.com/openactive/participant-condition-supported/issues)
+* if you want to take an active role in defining and setting the direction of the standard, you can join the [W3C OpenActive Community Group](https://www.w3.org/community/openactive/)
+* or you can just email us with any other comments or concerns you might have, at **hello@openactive.io**
 
 OpenActive particularly welcomes feedback from individuals with disabilities and organisations dedicated to advocacy in this area.
 
