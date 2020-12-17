@@ -19,5 +19,5 @@ The OpenActive approach to accessibility is informed by the following research p
 * [Sport and Recreation Alliance’s Sports Club Survey](http://www.activityalliance.org.uk/how-we-help/research/1909-sport-and-recreation-alliances-sports-club-survey-2013) \(2013\)
 * [Giving you clear results](http://www.activityalliance.org.uk/how-we-help/research/1926-giving-you-clear-results-may-2016) \(2016\)
 
-In addition, early feedback on the evolving standard has been given by [the Activity Alliance](http://www.activityalliance.org.uk/), [ukactive](https://www.ukactive.com/), and the [OpenActive W3C Group](https://www.w3.org/community/openactive/). In addition, we are profoundly grateful to Srin Madipali \(of [Accomable](https://en.wikipedia.org/wiki/Accomable)\) for his reflections on practical barriers to data-gathering for accessibility needs. 
+In addition, early feedback on the evolving standard has been given by [the Activity Alliance](http://www.activityalliance.org.uk/), [ukactive](https://www.ukactive.com/), and the [OpenActive W3C Group](https://www.w3.org/community/openactive/). In addition, we are profoundly grateful to Srin Madipalli \(of [Accomable](https://en.wikipedia.org/wiki/Accomable)\) for his reflections on practical barriers to data-gathering for accessibility needs. 
 
