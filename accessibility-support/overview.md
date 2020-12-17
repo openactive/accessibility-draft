@@ -8,7 +8,7 @@ In cases where accessibility provision is good, data-collection practices are st
 
 An `accessibilitySupport` object may have any combination of the following attributes:
 
-* [description](), a free-text description of the support offered
+* [description~~,~~](description.md) a free-text description of the support offered
 * [isAdvanceNoticeRequired](isadvancenoticerequired.md), indicating whether individuals requesting such support are required to alert staff in advance to their attendance
 * [hoursAvailable](hoursavailable.md), capturing the hours in which such support is available
 * [name](name.md), a short label indicating the nature of the support
